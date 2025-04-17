@@ -1,0 +1,47 @@
+body {
+  
+    background-color: white;
+   
+}
+.heading {
+color: blue;
+
+padding-left: 40%;
+
+}
+.paragraph {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(244, 0, 77);
+    margin: 10%;
+    margin-top: 2%;
+    font-style: normal;
+    
+}
+.image {
+    
+    height: 5cm;
+    border-radius: 100%;
+    padding: 3%;
+    background-color: aquamarine;
+    margin: 10%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-right: 0%;
+}
+.paragraph2 {
+    color: red;
+    padding-left: 40%;
+
+}
+.image2 {
+    padding-left: 30%;
+}
+.href {
+    padding-left: 10%;
+    color: rgb(54, 3, 237);
+}
+.div {
+ background-color: aqua;
+ margin: 10%;
+ margin-top: 0%;
+}

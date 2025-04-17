@@ -1,0 +1,25 @@
+body {
+    background-color: aqua;
+    
+  
+}
+    
+ 
+   
+.heading {
+    color: blue;
+   
+    padding: 30%;
+    
+}
+.paragraph {
+    color: red;
+    padding: 40%;
+}
+.image {
+    border-radius: 100%;
+    height: 20%;
+    width: 20%;
+}
+
+   
