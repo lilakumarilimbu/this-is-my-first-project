@@ -45,3 +45,11 @@ padding-left: 40%;
  margin: 10%;
  margin-top: 0%;
 }
+.image3 {
+    height: 5cm;
+    border-radius: 100%;
+    padding: 2%;
+    background-color: rgb(127, 255, 212);
+    margin-left: 10%;
+    
+}
